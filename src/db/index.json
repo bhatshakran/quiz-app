@@ -1,0 +1,488 @@
+[
+  {
+    "category": "Science & Nature",
+    "type": "boolean",
+    "difficulty": "medium",
+    "question": "The Neanderthals were a direct ancestor of modern humans.",
+    "correct_answer": "False",
+    "incorrect_answers": ["True"],
+    "id": 16453
+  },
+  {
+    "category": "Entertainment: Film",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Who starred as Bruce Wayne and Batman in Tim Burton&#039;s 1989 movie &quot;Batman&quot;?",
+    "correct_answer": "Michael Keaton",
+    "incorrect_answers": ["George Clooney", "Val Kilmer", "Adam West"],
+    "id": 85050
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the world&#039;s most expensive spice by weight?",
+    "correct_answer": "Saffron",
+    "incorrect_answers": ["Cinnamon", "Cardamom", "Vanilla"],
+    "id": 57505
+  },
+  {
+    "category": "Entertainment: Music",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Who had a 1973 hit with the song &#039;Hocus Pocus&#039;?",
+    "correct_answer": "Focus",
+    "incorrect_answers": ["Pilot", "Rush", "AC/DC"],
+    "id": 68101
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What was the code name for the &quot;Nintendo Gamecube&quot;?",
+    "correct_answer": "Dolphin",
+    "incorrect_answers": ["Nitro", "Revolution", "Atlantis"],
+    "id": 27386
+  },
+  {
+    "category": "Entertainment: Comics",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In the Batman comics, by what other name is the villain Dr. Jonathan Crane known?",
+    "correct_answer": "Scarecrow",
+    "incorrect_answers": ["Bane", "Calendar Man", "Clayface"],
+    "id": 22643
+  },
+  {
+    "category": "Science & Nature",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Rhinoplasty is a surgical procedure on what part of the human body?",
+    "correct_answer": "Nose",
+    "incorrect_answers": ["Ears", "Chin", "Neck"],
+    "id": 87438
+  },
+  {
+    "category": "Geography",
+    "type": "boolean",
+    "difficulty": "medium",
+    "question": "The flag of South Africa features 7 colours.",
+    "correct_answer": "False",
+    "incorrect_answers": ["True"],
+    "id": 57755
+  },
+  {
+    "category": "Geography",
+    "type": "boolean",
+    "difficulty": "easy",
+    "question": "A group of islands is called an &#039;archipelago&#039;.",
+    "correct_answer": "True",
+    "incorrect_answers": ["False"],
+    "id": 61740
+  },
+  {
+    "category": "History",
+    "type": "boolean",
+    "difficulty": "medium",
+    "question": "The first televised presidential debate was between Jimmy Carter and Gerald Ford.",
+    "correct_answer": "False",
+    "incorrect_answers": ["True"],
+    "id": 5819
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Area 51 is located in which US state?",
+    "correct_answer": "Nevada",
+    "incorrect_answers": ["Arizona", "New Mexico", "Utah"],
+    "id": 7165
+  },
+  {
+    "category": "Science: Computers",
+    "type": "boolean",
+    "difficulty": "medium",
+    "question": "The very first recorded computer &quot;bug&quot; was a moth found inside a Harvard Mark II computer.",
+    "correct_answer": "True",
+    "incorrect_answers": ["False"],
+    "id": 20633
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "In the game Half-Life, which enemy is showcased as the final boss?",
+    "correct_answer": "The Nihilanth",
+    "incorrect_answers": ["Dr. Wallace Breen", "G-Man", "The Gonarch"],
+    "id": 69705
+  },
+  {
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In what year was the famous 45 foot tall Hollywood sign first erected?",
+    "correct_answer": "1923",
+    "incorrect_answers": ["1903", "1913", "1933"],
+    "id": 60128
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In the Morse code, which letter is indicated by 3 dots? ",
+    "correct_answer": "S",
+    "incorrect_answers": ["O", "A", "C"],
+    "id": 99837
+  },
+  {
+    "category": "Science & Nature",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What mineral has the lowest number on the Mohs scale?",
+    "correct_answer": "Talc",
+    "incorrect_answers": ["Quartz", "Diamond", "Gypsum"],
+    "id": 46224
+  },
+  {
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Cashmere is the wool from which kind of animal?",
+    "correct_answer": "Goat",
+    "incorrect_answers": ["Sheep", "Camel", "Llama"],
+    "id": 11327
+  },
+  {
+    "category": "Science & Nature",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is the chemical makeup of water?",
+    "correct_answer": "H20",
+    "incorrect_answers": ["C12H6O2", "CO2", "H"],
+    "id": 89783
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Why was the character Trevor Philips discharged from the Air Force?",
+    "correct_answer": "Mental Health Issues",
+    "incorrect_answers": ["Injuries", "Disease", "Danger to Others"],
+    "id": 62532
+  },
+  {
+    "category": "Sports",
+    "type": "boolean",
+    "difficulty": "easy",
+    "question": "Peyton Manning retired after winning Super Bowl XLIX.",
+    "correct_answer": "False",
+    "incorrect_answers": ["True"],
+    "id": 67936
+  },
+  {
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What event led to Liechenstein adding a crown to its flag?",
+    "correct_answer": "The 1936 Olympics",
+    "incorrect_answers": [
+      "Coronation of Prince Johann I Joseph in 1805",
+      "Charles VI&#039;s decree in 1719",
+      "Signing of the 1862 Constitution of Liechtenstein"
+    ],
+    "id": 38952
+  },
+  {
+    "category": "Entertainment: Film",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is the oldest Disney film?",
+    "correct_answer": "Snow White and the Seven Dwarfs",
+    "incorrect_answers": ["Pinocchio", "Dumbo", "Fantasia"],
+    "id": 86825
+  },
+  {
+    "category": "Entertainment: Film",
+    "type": "boolean",
+    "difficulty": "easy",
+    "question": "Samuel L. Jackson had the words, &#039;Bad Motherf*cker&#039; in-scripted on his lightsaber during the filming of Star Wars.",
+    "correct_answer": "True",
+    "incorrect_answers": ["False"],
+    "id": 91942
+  },
+  {
+    "category": "Vehicles",
+    "type": "boolean",
+    "difficulty": "easy",
+    "question": "The full English name of the car manufacturer BMW is Bavarian Motor Works",
+    "correct_answer": "True",
+    "incorrect_answers": ["False"],
+    "id": 75869
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which of these is NOT a faction included in the game Counter-Strike: Global Offensive?",
+    "correct_answer": "BOPE",
+    "incorrect_answers": ["GSG-9", "Elite Crew", "Phoenix Connexion"],
+    "id": 50434
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What company develops the Rock Band series of rhythm games?",
+    "correct_answer": "Harmonix",
+    "incorrect_answers": ["Activision", "Konami", "Electronic Arts"],
+    "id": 1133
+  },
+  {
+    "category": "Entertainment: Music",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Who is the frontman of Muse?",
+    "correct_answer": "Matt Bellamy",
+    "incorrect_answers": ["Dominic Howard", "Thom Yorke", "Jonny Greenwood"],
+    "id": 42698
+  },
+  {
+    "category": "Entertainment: Comics",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which universe crossover was introduced in the &quot;Sonic the Hedgehog&quot; comic issue #247?",
+    "correct_answer": "Mega Man",
+    "incorrect_answers": [
+      "Super Mario Brothers",
+      "Alex Kidd",
+      "Super Monkey Ball"
+    ],
+    "id": 58347
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "In what year was Hearthstone released?",
+    "correct_answer": "2014",
+    "incorrect_answers": ["2011", "2013", "2012"],
+    "id": 58132
+  },
+  {
+    "category": "Mythology",
+    "type": "boolean",
+    "difficulty": "easy",
+    "question": "According to Greek Mythology, Atlas was an Olympian God.",
+    "correct_answer": "False",
+    "incorrect_answers": ["True"],
+    "id": 5589
+  },
+  {
+    "category": "Entertainment: Film",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "In the movie Gremlins, after what time of day should you not feed Mogwai?",
+    "correct_answer": "Midnight",
+    "incorrect_answers": ["Evening", "Morning", "Afternoon"],
+    "id": 49732
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What do the letters of the fast food chain KFC stand for?",
+    "correct_answer": "Kentucky Fried Chicken",
+    "incorrect_answers": [
+      "Kentucky Fresh Cheese",
+      "Kibbled Freaky Cow",
+      "Kiwi Food Cut"
+    ],
+    "id": 60476
+  },
+  {
+    "category": "Entertainment: Musicals & Theatres",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "&quot;Doctor Who&quot; star David Tennant performed in a rendition of which Shakespearean play?",
+    "correct_answer": "Hamlet",
+    "incorrect_answers": ["The Tempest", "Othello", "The Taming of the Shrew"],
+    "id": 4918
+  },
+  {
+    "category": "Science: Computers",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which of these is not a key value of Agile software development?",
+    "correct_answer": "Comprehensive documentation",
+    "incorrect_answers": [
+      "Individuals and interactions",
+      "Customer collaboration",
+      "Responding to change"
+    ],
+    "id": 67281
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which Kirby game first introduced Copy Abilities?",
+    "correct_answer": "Kirby&#039;s Adventure",
+    "incorrect_answers": [
+      "Kirby Super Star",
+      "Kirby&#039;s Dream Land 2",
+      "Kirby&#039;s Dream Land"
+    ],
+    "id": 80074
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In the game Pok&eacute;mon Conquest, how many kingdoms make up the region of Ransei?",
+    "correct_answer": "17",
+    "incorrect_answers": ["18", "15", "16"],
+    "id": 7011
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "According to Fair Works Australia, how long do you have to work to get Long Service Leave?",
+    "correct_answer": "7 years",
+    "incorrect_answers": ["2 years", "8 years", "6 months"],
+    "id": 9691
+  },
+  {
+    "category": "Entertainment: Television",
+    "type": "boolean",
+    "difficulty": "medium",
+    "question": "In &quot;Star Trek&quot;, Klingons are commonly referred to as &quot;Black Elves&quot;.",
+    "correct_answer": "False",
+    "incorrect_answers": ["True"],
+    "id": 4784
+  },
+  {
+    "category": "Science: Mathematics",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What is the plane curve proposed by Descartes to challenge Fermat&#039;s extremum-finding techniques called?",
+    "correct_answer": "Folium of Descartes",
+    "incorrect_answers": [
+      "Elliptic Paraboloid of Descartes",
+      "Cartesian Coordinates",
+      "Descarte&#039;s Helicoid"
+    ],
+    "id": 48753
+  },
+  {
+    "category": "Entertainment: Television",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which of these voices wasn&#039;t a choice for the House AI in &quot;The Simpsons Treehouse of Horror&quot; short, House of Whacks?",
+    "correct_answer": "George Clooney",
+    "incorrect_answers": ["Matthew Perry", "Dennis Miller", "Pierce Brosnan"],
+    "id": 76052
+  },
+  {
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What is the capital of Mauritius?",
+    "correct_answer": "Port Louis",
+    "incorrect_answers": ["Port Moresby", "Port Vila", "Port-au-Prince"],
+    "id": 85531
+  },
+  {
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "How old was Adolf Hitler when he died?",
+    "correct_answer": "56",
+    "incorrect_answers": ["43", "65", "47"],
+    "id": 48861
+  },
+  {
+    "category": "Science & Nature",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What do you study if you are studying entomology?",
+    "correct_answer": "Insects",
+    "incorrect_answers": ["Humans", "the Brain", "Fish"],
+    "id": 15608
+  },
+  {
+    "category": "Entertainment: Board Games",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which ability from the &quot;Magic: The Gathering&quot; Scars of Mirrodin expansion involves having at least three artifacts in play?",
+    "correct_answer": "Metalcraft",
+    "incorrect_answers": ["Affinity", "Imprint", "Living Weapon"],
+    "id": 88166
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "The Khajiit are a race of cat-like creatures from which epic series of role-playing games, set across the land of Tamriel?",
+    "correct_answer": "The Elder Scrolls",
+    "incorrect_answers": [
+      "Lord of the Rings",
+      "The Witcher",
+      "Neverwinter Nights"
+    ],
+    "id": 31705
+  },
+  {
+    "category": "Entertainment: Music",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the opening track on Lorde&#039;s Pure Heroine?",
+    "correct_answer": "Tennis Court",
+    "incorrect_answers": ["Team", "Royals", "400 Lux"],
+    "id": 50197
+  },
+  {
+    "category": "Entertainment: Japanese Anime & Manga",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What colour hair does the main character of the Yu-Gi-Oh! original anime series have?",
+    "correct_answer": "Red, black and yellow",
+    "incorrect_answers": [
+      "Red, yellow and green",
+      "Red, black and green",
+      "Red, purple and blue"
+    ],
+    "id": 73611
+  },
+  {
+    "category": "Entertainment: Music",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In August 1964, who introduced the Beatles to cannabis?",
+    "correct_answer": "Bob Dylan",
+    "incorrect_answers": ["Jim Morrison", "Brian Epstein", "Jerry Garcia"],
+    "id": 92036
+  },
+  {
+    "category": "Entertainment: Film",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "After India, which country produces the second most movies per year?",
+    "correct_answer": "Nigeria",
+    "incorrect_answers": ["United States", "China", "France"],
+    "id": 43754
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which NBA player has the most games played over the course of their career?",
+    "correct_answer": "Robert Parish",
+    "incorrect_answers": [
+      "Kareem Abdul-Jabbar",
+      "Kevin Garnett",
+      "Kobe Bryant"
+    ],
+    "id": 43381
+  }
+]
